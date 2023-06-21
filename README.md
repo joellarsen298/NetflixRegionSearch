@@ -4,7 +4,7 @@ This is a Node.js application that interacts with the uNoGs API from RapidAPI to
 
 ## Live Demo
 
-You can access the live version of the app deployed on Heroku [here](https://your-heroku-app-link).
+You can access the live version of the app deployed on Heroku [here](https://netflix-region-search-54e6b684ec89.herokuapp.com).
 
 ## Running Locally
 
